@@ -60,3 +60,4 @@ target/
 .settings
 .springBeans
 .sts4-cache
+output/encodings.pkl
